@@ -19,6 +19,8 @@ Cloud security writeups
     - https://blog.truesec.com/2020/02/12/from-s3-bucket-to-laravel-unserialize-rce/
  - Apple iCloud
     - https://www.secjuice.com/apple-icloud-credential-stealing/
+ - Kubernetes
+    - https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/
     
 IOT security resources
 ----------------------
