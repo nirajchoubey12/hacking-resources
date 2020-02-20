@@ -17,3 +17,5 @@ Cloud security writeups
     - https://www.bsidesmelbourne.com/2020-plundering-gcp.html
  - AWS
     - https://blog.truesec.com/2020/02/12/from-s3-bucket-to-laravel-unserialize-rce/
+ - Apple iCloud
+    - https://www.secjuice.com/apple-icloud-credential-stealing/
