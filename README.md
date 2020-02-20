@@ -12,6 +12,6 @@ https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/
 
 Cloud security writeups
 -----------------------
- - GCP
-     https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/
-     https://www.bsidesmelbourne.com/2020-plundering-gcp.html
+ -- GCP
+    - https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/
+    - https://www.bsidesmelbourne.com/2020-plundering-gcp.html
