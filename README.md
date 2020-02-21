@@ -8,6 +8,10 @@ Android security resources
    - https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
    - https://securitychops.com/2019/08/31/dev/random/one-liner-to-install-burp-cacert-into-android.html
    - https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/
+   
+ - Deep link writeups
+   - https://hackerone.com/reports/328486
+   - https://hackerone.com/reports/401793
 
 
 Cloud security writeups
