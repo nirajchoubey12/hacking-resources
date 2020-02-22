@@ -12,6 +12,7 @@ Android security resources
  - Deep link writeups
    - https://hackerone.com/reports/328486
    - https://hackerone.com/reports/401793
+   - https://hackerone.com/reports/583987
    
  - Bug Bounty resource
    - https://www.youtube.com/watch?v=OLgmPxTHLuY
