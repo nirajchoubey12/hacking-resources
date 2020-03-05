@@ -17,6 +17,9 @@ Android security resources
  - Bug Bounty resource
    - https://www.youtube.com/watch?v=OLgmPxTHLuY
 
+ - Android Native library reversing
+   - https://www.youtube.com/watch?v=s0Tqi7fuOSU
+   - https://maddiestone.github.io/AndroidAppRE/reversing_native_libs.html
 
 Cloud security writeups
 -----------------------
