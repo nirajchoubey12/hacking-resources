@@ -41,3 +41,7 @@ IOT security resources
 ARM Assembly reverse engineering
 -------------------------------
   - https://azeria-labs.com/writing-arm-assembly-part-1/
+
+Conferences
+-----------
+  - Appsec California 2020 https://www.youtube.com/playlist?list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7  
