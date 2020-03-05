@@ -32,11 +32,9 @@ Cloud security writeups
     - https://www.secjuice.com/apple-icloud-credential-stealing/
  - Kubernetes
     - https://research.nccgroup.com/2020/02/12/command-and-kubectl-talk-follow-up/
-    - Kubernetes security
-      https://www.youtube.com/watch?v=HPEXdU92N1A&list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7&index=36&t=0s
+    - [Kubernetes security](https://www.youtube.com/watch?v=HPEXdU92N1A&list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7&index=36&t=0s)
  - Generic Cloud
-    - Continuous cloud security monitoring
-      https://www.youtube.com/watch?v=ePCK8quTP2o&list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7&index=42&t=0s
+    - [Continuous cloud security monitoring](https://www.youtube.com/watch?v=ePCK8quTP2o&list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7&index=42&t=0s)
     
 IOT security resources
 ----------------------
@@ -53,4 +51,4 @@ Bug Bounty Writeups
 
 Conferences
 -----------
-  - Appsec California 2020 https://www.youtube.com/playlist?list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7  
+  - [Appsec California 2020](https://www.youtube.com/playlist?list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7)  
