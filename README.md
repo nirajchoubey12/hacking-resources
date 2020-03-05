@@ -34,3 +34,7 @@ IOT security resources
 ----------------------
  - https://research.nccgroup.com/2020/02/10/interfaces-d-to-rce/
  - https://github.com/scriptingxss/IoTGoat
+ 
+ARM Assembly reverse engineering
+-------------------------------
+  - https://azeria-labs.com/writing-arm-assembly-part-1/
