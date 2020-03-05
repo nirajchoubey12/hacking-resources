@@ -47,6 +47,10 @@ ARM Assembly reverse engineering
 -------------------------------
   - https://azeria-labs.com/writing-arm-assembly-part-1/
 
+Bug Bounty Writeups
+--------------------
+  - [A Tale of Two Formats: Exploiting Insecure XML and ZIP File Parsers to Create a Web Shell](https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a)
+
 Conferences
 -----------
   - Appsec California 2020 https://www.youtube.com/playlist?list=PLhaoFbw_ejdo-4nSeRKNH1pRhdfsn3CI7  
