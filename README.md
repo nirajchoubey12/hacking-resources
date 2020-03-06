@@ -20,6 +20,8 @@ Android security resources
  - Android Native library reversing
    - https://www.youtube.com/watch?v=s0Tqi7fuOSU
    - https://maddiestone.github.io/AndroidAppRE/reversing_native_libs.html
+ - Amazon cognito authorization issues
+   - https://github.com/riddhi-shree/nullCommunity/tree/master/Android/amazon_cognito_authz_issue
 
 Cloud security writeups
 -----------------------
