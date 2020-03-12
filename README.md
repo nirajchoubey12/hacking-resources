@@ -23,6 +23,12 @@ Android security resources
  - Amazon cognito authorization issues
    - https://github.com/riddhi-shree/nullCommunity/tree/master/Android/amazon_cognito_authz_issue
 
+Container Security
+------------------
+ - [DEF CON 26 - Wesley McGrew - An Attacker Looks at Docker Approaching Multi Container Applications](https://www.youtube.com/watch?v=-Ug2vmRiI8g)
+ - [How Abusing Docker API Led to Remote Code Execution, Same Origin Bypass & more](https://www.youtube.com/watch?v=w7tAfIlMIa0)
+ - [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c)
+ 
 Cloud security writeups
 -----------------------
  - GCP
