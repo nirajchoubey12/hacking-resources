@@ -65,3 +65,7 @@ CTF resources
 -------------
   - https://ctf101.org/
   - [UTCTF 2020 bof writeup](https://medium.com/@craig.knott92/utctf-2020-bof-a069663f12a)
+ 
+Everything
+------------
+  - https://medium.com/@unknownuser1806/what-i-have-learn-in-my-first-month-of-hacking-and-bug-bounty-dc1a4be58294
