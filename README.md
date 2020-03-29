@@ -56,8 +56,10 @@ ARM Assembly reverse engineering
 
 OAuth Security
 -----------------
-   - [Introduction] (https://www.youtube.com/watch?v=CPbvxxslDTU)
-   - [Best Practices] (https://tools.ietf.org/id/draft-ietf-oauth-security-topics-08.html)
+   - Introduction
+       - https://www.youtube.com/watch?v=CPbvxxslDTU
+   - Best Practices
+       - https://tools.ietf.org/id/draft-ietf-oauth-security-topics-08.html
    - Common Attacks
        - http://blog.intothesymmetry.com/2015/12/top-10-oauth-2-implementation.html
        - https://ldapwiki.com/wiki/OAuth%202.0%20Vulnerabilities
