@@ -53,6 +53,20 @@ ARM Assembly reverse engineering
 -------------------------------
   - https://azeria-labs.com/writing-arm-assembly-part-1/
 
+
+OAuth Security
+-----------------
+   - [Introduction] (https://www.youtube.com/watch?v=CPbvxxslDTU)
+   - [Best Practices] (https://tools.ietf.org/id/draft-ietf-oauth-security-topics-08.html)
+   - Common Attacks
+       - http://blog.intothesymmetry.com/2015/12/top-10-oauth-2-implementation.html
+       - https://ldapwiki.com/wiki/OAuth%202.0%20Vulnerabilities
+   - Examples
+       - https://hackerone.com/reports/202781
+       - hackerone.com/reports/314814
+       - hackerone.com/reports/110293
+       - https://hackerone.com/reports/210779
+
 Bug Bounty Writeups
 --------------------
   - [A Tale of Two Formats: Exploiting Insecure XML and ZIP File Parsers to Create a Web Shell](https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a)
