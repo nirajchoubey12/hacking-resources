@@ -23,3 +23,5 @@ script.load()
 
 # prevent the python script from terminating
 input()
+
+#python root-bypass-frida.py
