@@ -20,3 +20,5 @@ Java.perform(function(){
 
             };
 });
+
+//frida -U --no-pause -l root-bypass-frida.js -f com.android.insecurebankv2
