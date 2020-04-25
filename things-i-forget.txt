@@ -1,0 +1,16 @@
+python base64 decode
+--------------------
+import base64
+base64.b64decode('cnRjcHt5b3VyZV92ZXJ5X3dlbGNvbWV9')
+
+hex decode
+--------------------
+bytes.fromhex('727463707b626f625f796f755f7375636b5f61745f6265696e675f656e636f75726167696e677d').decode('utf-8')
+
+import codecs
+codecs.decode(b'727463707b626f625f796f755f7375636b5f61745f6265696e675f656e636f75726167696e677d','hex')
+
+hex encode
+--------------
+import codecs
+codecs.encode(b'r','hex')
