@@ -72,6 +72,7 @@ OAuth Security
 Bug Bounty Writeups
 --------------------
   - [A Tale of Two Formats: Exploiting Insecure XML and ZIP File Parsers to Create a Web Shell](https://spaceraccoon.dev/a-tale-of-two-formats-exploiting-insecure-xml-and-zip-file-parsers-to-create-a)
+  - [Stealing Data using xss](https://medium.com/bugbountywriteup/stealing-your-data-using-xss-bf7e4a31e6ee)
 
 Conferences
 -----------
