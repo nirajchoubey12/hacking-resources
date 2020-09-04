@@ -85,4 +85,4 @@ CTF resources
  
 Everything
 ------------
-  - https://medium.com/@unknownuser1806/what-i-have-learn-in-my-first-month-of-hacking-and-bug-bounty-dc1a4be58294
+  - [What i have learnt from first month of hacking and BB](https://medium.com/@unknownuser1806/what-i-have-learn-in-my-first-month-of-hacking-and-bug-bounty-dc1a4be58294)
