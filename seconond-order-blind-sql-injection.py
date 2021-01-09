@@ -7,7 +7,7 @@ dictionary = ['0','1','2','3','4','5','6','7','8','9','0','a', 'b', 'c', 'd', 'e
 URL = "https://hackyholidays.h1ctf.com/evil-quiz/"
 password = ""
 headers = {'Cookie': 'session=49780cc698484223f6057689d396b3f8'}
-http_proxy  = "http://192.168.*.*:9090"  # this is optional. To check the request and payload in burp
+http_proxy  = "http://192.168.1.10:9090"  # this is optional. To check the request and payload in burp. 
 proxy = { "http"  : http_proxy}
 while True:
     data = {'name' : 'max'}
