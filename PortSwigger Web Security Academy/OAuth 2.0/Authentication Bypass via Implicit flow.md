@@ -1,4 +1,4 @@
-With this lab we learn about inherent security implications of using implicit grant type for an application where tokens are passed to the client which subsequently uses that for login the uses
+With this lab we learn about inherent security implications of using implicit grant type for an application where tokens are passed to the client which subsequently uses that for login the user to the application
 
 Flow of the lab is like this:
 
