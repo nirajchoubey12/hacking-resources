@@ -1,6 +1,5 @@
 import pickle
 import base64
-import os
 import subprocess
 import requests
 import re
