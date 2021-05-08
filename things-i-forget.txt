@@ -31,3 +31,4 @@ Random Commands
 ---------------------------------
 kill a tcp process on 8080 : fuser -k 8080/tcp
 List the cron jobs running :  crontab -l
+untar a file : tar -xvf archive.tar.gz # -x -> extract , v verbose , f filename
