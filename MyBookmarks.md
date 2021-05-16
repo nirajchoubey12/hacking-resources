@@ -1,5 +1,6 @@
 # All About XXE
   - https://portswigger.net/web-security/xxe/xml-entities
+  - https://paper.bobylive.com/Meeting_Papers/BlackHat/Europe-2013/bh-eu-13-XML-data-osipov-wp.pdf
 
 
 # Awesome research blogs
