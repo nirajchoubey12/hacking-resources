@@ -4,6 +4,8 @@
   - [Advance XXE along with practice labs](https://gosecure.github.io/xxe-workshop/#0)
   - [How to become a Jedi](https://www.slideshare.net/ssuserf09cba/xxe-how-to-become-a-jedi)
   - [Lot of details on XML](https://vsecurity.com//download/papers/XMLDTDEntityAttacks.pdf)
+  - [Deep dive into XXE](https://www.synack.com/blog/a-deep-dive-into-xxe-injection/)
+  - [XXE to RCE](https://bookgin.tw/2018/12/04/from-xxe-to-rce-pwn2win-ctf-2018-writeup/)
 
 
 # Awesome research blogs
